@@ -75,12 +75,6 @@ graph LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkriStudio&theme=radical" alt="OkriStudio GitHub streak" />
 </div>
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
 <div align="center">
   <p>© 2024 OKRI - Todos los derechos reservados</p>
   <p>Desarrollado con ❤️ en Chile</p>
