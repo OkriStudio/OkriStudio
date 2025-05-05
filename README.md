@@ -41,7 +41,6 @@ Trabajamos con las tecnologías más actuales y demandadas del mercado:
 
 Próximamente compartiremos nuestros casos de éxito y proyectos destacados.
 
-
 ## 📈 Proceso de Desarrollo
 
 ```mermaid
@@ -67,6 +66,14 @@ graph LR
 [![Email](https://img.shields.io/badge/email-contactookristudio@gmail.com-red.svg)](mailto:contactookristudio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/okri)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/okri.informatica/)
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OkriStudio&show_icons=true&theme=radical" alt="OkriStudio GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkriStudio&theme=radical" alt="OkriStudio GitHub streak" />
+</div>
 
 ## 📄 Licencia
 
